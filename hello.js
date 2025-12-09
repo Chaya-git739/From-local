@@ -7,7 +7,7 @@ const b=()=>{
 
 const d=()=>{
     console.log("confirm are you sure  ")
-
+}
 const c=()=>{
     console.log("jjj")
 
