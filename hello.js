@@ -7,3 +7,6 @@ const b=()=>{
 const c=()=>{
     console.log("jjj")
 }
+const l=()=>{
+console.log("lll")
+}
